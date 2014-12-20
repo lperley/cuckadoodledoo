@@ -23,7 +23,7 @@
 // @grant       GM_setValue
 // @grant       GM_getValue
 // @grant       GM_xmlhttpRequest
-// @version     1248
+// @version     1252
 // ==/UserScript==
 (function () {
 var my_url = 'https://googledrive.com/host/0B92jclnson22M3NaVjZWOXJCWGs?tmp='+Math.random();
